@@ -29,14 +29,14 @@ class SignUpScreen extends StatelessWidget {
             const SizedBox(
               height: 20,
             ),
-            // const Text(
-            //   'Create your Account',
-            //   style: TextStyle(
-            //     fontFamily: 'Poppins SemiBold',
-            //     color: Colors.black,
-            //     fontSize: 18,
-            //   ),
-            // ),
+            const Text(
+              'Create your Account',
+              style: TextStyle(
+                fontFamily: 'Poppins SemiBold',
+                color: Colors.black,
+                fontSize: 18,
+              ),
+            ),
             const SizedBox(
               height: 10,
             ),
